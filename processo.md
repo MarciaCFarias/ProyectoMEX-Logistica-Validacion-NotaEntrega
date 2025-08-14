@@ -1,4 +1,10 @@
-# Documento de Análisis de Proceso – Validación de Nota de Entrega 
+# 📄 Mapeo de Procesos – Validación de Nota de Entrega
+---
+
+## Diagrama de Flujo – Visión Macro del Proceso
+
+<img width="1054" height="429" alt="image" src="https://github.com/user-attachments/assets/6b413036-0407-4c1e-8cd9-d33ab1bdc3f6" />
+
 
 ## 1 - Flujo TO BE
 
