@@ -1,5 +1,4 @@
 # 📄 Mapeo de Procesos – Validación de Nota de Entrega
----
 
 ## Diagrama de Flujo – Visión Macro del Proceso
 
