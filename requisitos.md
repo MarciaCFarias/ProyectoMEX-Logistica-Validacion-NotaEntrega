@@ -2,7 +2,7 @@
 
 ## 1 - Reglas de Negocio
 
-- **Programación de ejecución**: el robot se ejecuta semanalmente los domingos a las 20h (hora CDMX) y debe finalizar antes de las 00h.
+- **Programación de ejecución**: el robot se ejecuta semanalmente (trigger) (hora CDMX) y debe finalizar antes de las 00h.
 - **Fuente de datos**: el archivo “<AA>” debe estar disponible en la carpeta especificada de SharePoint antes de la ejecución, con el mismo nombre y estructura.
 - **Filtrado inicial**: procesar únicamente entregas con el campo “Cargado SI/NO” vacío y con número de entrega válido (numérico).
 - **Consulta en Fourkites**: acceder con credenciales del robot, buscar entrega en “Shipments” y validar documentos asociados.
