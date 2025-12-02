@@ -85,4 +85,5 @@
 - La ejecución semanal está programada.
 - Es importante mantener credenciales y accesos siempre actualizados para evitar fallos.
 
-
+---
+🚨 Aviso Importante: Todas as informações contidas nos projetos deste repositório são fictícias e foram criadas exclusivamente para fins de demonstração ou simulação. Nenhuma das empresas, organizações, pessoas ou eventos mencionados nos arquivos deste projeto são reais ou exigem dados autênticos. Quaisquer semelhanças com nomes, lugares ou entidades existentes são puramente coincidentes. Este repositório foi desenvolvido com o objetivo de demonstrar habilidades técnicas, práticas de projetos e experiência em desenvolvimento e mapeamento de sistemas. Todas as referências a empresas, produtos, serviços ou indivíduos são meramente fictícias e não devem ser interpretadas como representações precisas da realidade. Fique à vontade para explorar os projetos disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação. Obrigada pela compreensão!
